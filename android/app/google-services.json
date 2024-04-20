@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112414133382",
+    "project_id": "flutterapp-bd6ca",
+    "storage_bucket": "flutterapp-bd6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112414133382:android:c831c47e87132f41629507",
+        "android_client_info": {
+          "package_name": "com.example.firbasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfCk_YxQ_y3oN9QLIopCgsGy5ZZxREZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
